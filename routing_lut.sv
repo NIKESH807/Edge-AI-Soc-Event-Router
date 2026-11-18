@@ -18,7 +18,7 @@
 // Additional Comments:
 // 
 //////////////////////////////////////////////////////////////////////////////////
-module event_router (
+module routing_lut (
     input logic clk,
     input logic reset,
     input logic event_valid,
